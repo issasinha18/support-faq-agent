@@ -105,3 +105,7 @@ Goodbye!
 - Enters a loop to continuously prompt the user for input.
 - Handles special commands ('bye' to end the conversation and 'thank you' for a polite response).
 - Generates responses using the `chatbot_response` function.
+
+## Live Demo
+
+https://colab.research.google.com/drive/1dTTpYQYp32vnLZDZr25qhrxUunBVmAgG?usp=sharing
